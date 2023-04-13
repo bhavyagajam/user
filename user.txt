@@ -2,6 +2,6 @@
 <body>
 username:<input type="textbox">br 
 password:<input type="textbox">br
-<input type="button" name="submit">
+<input type="button" value="submit">
 </body>
 </html>
